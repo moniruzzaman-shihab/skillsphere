@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "React & Next.js Masterclass",
+    "instructor": "Sarah Williams",
+    "duration": "18 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Build modern web applications using React and Next.js.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+    "category": "Development"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design Fundamentals",
+    "instructor": "Emily Carter",
+    "duration": "12 hours",
+    "rating": 4.7,
+    "level": "Beginner",
+    "description": "Learn the basics of UI/UX design and prototyping.",
+    "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800",
+    "category": "Design"
+  },
+  {
+    "id": 4,
+    "title": "Python for Data Science",
+    "instructor": "Michael Brown",
+    "duration": "22 hours",
+    "rating": 4.8,
+    "level": "Intermediate",
+    "description": "Analyze data and build machine learning models with Python.",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800",
+    "category": "Data Science"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Essentials",
+    "instructor": "Olivia Johnson",
+    "duration": "10 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Master SEO, social media marketing, and online branding.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "category": "Marketing"
+  },
+  {
+    "id": 6,
+    "title": "Advanced JavaScript Concepts",
+    "instructor": "David Miller",
+    "duration": "16 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Deep dive into closures, async JS, and advanced patterns.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "category": "Development"
+  }
+]
