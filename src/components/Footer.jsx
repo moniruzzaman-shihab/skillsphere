@@ -24,7 +24,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               
-              <h2 className="text-xl font-semibold tracking-tight text-black dark:text-white">
+              <h2 className=" font-semibold tracking-tight text-black dark:text-white">
                 Contact Info
               </h2>
             </div>
@@ -34,7 +34,7 @@ const Footer = () => {
 
           {/* Product */}
           <div>
-            <h3 className="text-sm font-semibold text-black dark:text-white mb-4">
+            <h3 className=" font-semibold text-black dark:text-white mb-4">
              Social Links
             </h3>
             <ul className="space-y-3 text-sm text-gray-600 dark:text-gray-400">
@@ -46,7 +46,7 @@ const Footer = () => {
 
           {/* Company */}
           <div>
-            <h3 className="text-sm font-semibold text-black dark:text-white mb-4">
+            <h3 className=" font-semibold text-black dark:text-white mb-4">
               Terms & Conditions
             </h3>
           
@@ -54,7 +54,7 @@ const Footer = () => {
 
           {/* CTA Block */}
           <div className="space-y-4">
-            <h3 className="text-sm font-semibold text-black dark:text-white">
+            <h3 className=" font-semibold text-black dark:text-white">
               Privacy Policy
             </h3>
 
